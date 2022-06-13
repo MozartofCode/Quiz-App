@@ -1,0 +1,27 @@
+.Welcome {
+  text-align:center;
+  background-color: pink;
+}
+
+
+p {
+  color: black;
+  font-size: 100px;
+}
+
+
+.Welcome-header {
+  background-color: pink;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+
+
+
+ 
